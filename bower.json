@@ -1,0 +1,22 @@
+{
+  "name": "ct-camsean",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Andre Edirmanasinghe <andre.edirm@gmail.com>",
+    "Toby Curtis <curti024@csusm.edu>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.5"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

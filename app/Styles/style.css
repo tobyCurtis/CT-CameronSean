@@ -1,0 +1,22 @@
+
+.heading
+{
+
+}
+h1 {
+    	    color: white;
+}
+
+h3 {
+    color: #CFAE7B;
+}
+
+kbd {
+    border-radius: 10px;
+    font-size: 4em;
+}
+
+.jumbotron {
+    background: #6D049E;
+    	    color: white;
+}
